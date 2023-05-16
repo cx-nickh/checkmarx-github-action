@@ -1,7 +1,7 @@
 ```diff
-- Deprecation Notice: 
-- This action will be deprecated soon. 
-- Please consider to migrate ASAP to Checkmarx CxFlow Action available in here: 
+- Deprecation Notice:
+- This action has been deprecated.
+- Please migrate ASAP to Checkmarx CxFlow Action available in here:
 - https://github.com/checkmarx-ts/checkmarx-cxflow-github-action
 ```
 
